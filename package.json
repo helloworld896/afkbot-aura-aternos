@@ -1,17 +1,50 @@
 {
+  
   "name": "afkbot-aura",
+  
   "version": "1.0.0",
+  
   "private": true,
+  
   "description": "Bot AFK para servidor Minecraft Aternos",
+  
   "main": "index.js",
+  
   "scripts": {
+    
     "start": "node index.js"
+    
   },
+  
   "engines": {
+    
     "node": ">=20"
+    
   },
+  
   "dependencies": {
+    
     "express": "^4.21.2",
-    "mineflayer": "^4.32.0"
+    
+    "mineflayer": "^4.39.0"
+    
   }
+  
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
