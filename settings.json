@@ -1,11 +1,32 @@
 {
+  
   "ip": "Aurablock-0vgs.aternos.me",
+  
   "port": 41971,
+  
   "name": "AFKbotAura67426169",
-  "version": "auto",
+  
+  "version": "26.1",
+  
   "serverVersionLabel": "26.1 Java",
+  
   "position": "random",
+  
   "reconnectDelayMs": 15000,
+  
   "moveIntervalMs": 30000,
+  
   "webPort": 3000
+  
 }
+
+
+
+
+
+
+
+
+
+
+
